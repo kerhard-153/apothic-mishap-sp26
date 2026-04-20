@@ -38,6 +38,10 @@ public class PlayerMovement : MonoBehaviour
 
     public Animator anim;
 
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
     void Start()
     {
         anim = GetComponent<Animator>();

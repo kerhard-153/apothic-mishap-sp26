@@ -4,6 +4,10 @@ public class HealthUI : MonoBehaviour
 {
     public Animator[] leafAnimators;
 
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
     public void SetMaxHealth(int maxHealth)
     {
         // Powerups?
