@@ -11,6 +11,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
 
+    public PauseManager pauseManager;
+
     [Header("Movement")]
     public float moveSpeed = 5f;
     float horizontalMovement;
@@ -31,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
     private bool wasGrounded;
     private float minYVelocity;
     private bool hasTakenFallDamage;
+
 
 
     public Animator anim;
@@ -133,5 +136,14 @@ public class PlayerMovement : MonoBehaviour
         Gizmos.color = Color.white;
         Gizmos.DrawWireCube(groundCheckPos.position, groundCheckSize);
     }
+
+    public void Pause(InputAction.CallbackContext context)
+{
+    if (context.performed)
+    {
+        Debug.Log("PAUSE PRESSED");
+        pauseManager.TogglePause();
+    }
+}
 
 }
