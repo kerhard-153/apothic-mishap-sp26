@@ -41,6 +41,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        Time.timeScale = 1f;
     }
 
     // Update is called once per frame
