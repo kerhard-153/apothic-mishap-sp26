@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Nature_UI/Nature_UI Main_Menu/Nature_UI Main_Menu.unity
+    path: Assets/Scenes/Nature_UI Main_Menu.unity
     guid: 1a4f7aa78a5266e449fcbb42e0e521ce
   - enabled: 1
     path: Assets/Scenes/GameScene.unity

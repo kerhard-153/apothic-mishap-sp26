@@ -24,6 +24,14 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheckPos;
     public Vector2 groundCheckSize = new Vector2(0.5f, 0.5f);
     public LayerMask groundLayer;
+    private bool isGrounded;
+
+    [Header("Fall Damage")]
+    public float fallDamageThreshold = -5f;
+    private bool wasGrounded;
+    private float minYVelocity;
+    private bool hasTakenFallDamage;
+
 
     public Animator anim;
 
@@ -45,6 +53,19 @@ public class PlayerMovement : MonoBehaviour
         }
 
         GroundCheck();
+    }
+
+    void FixedUpdate()
+    {
+        float currentY = rb.linearVelocity.y;
+
+        if (!isGrounded)
+        {
+            if (currentY < minYVelocity)
+            {
+                minYVelocity = currentY;
+            }
+        }
     }
 
     public void Move(InputAction.CallbackContext context)
@@ -69,10 +90,42 @@ public class PlayerMovement : MonoBehaviour
 
     private void GroundCheck()
     {
-        if (Physics2D.OverlapBox(groundCheckPos.position, groundCheckSize, 0, groundLayer))
+        isGrounded = Physics2D.OverlapBox(groundCheckPos.position, groundCheckSize, 0, groundLayer);
+
+        // just left the ground
+        if (!isGrounded && wasGrounded)
+        {
+            minYVelocity = 0;
+            hasTakenFallDamage = false;
+        }
+
+        // tracks fall speed
+        if (!isGrounded)
+        {
+            float currentY = rb.linearVelocity.y;
+            if (currentY < minYVelocity)
+            {
+                minYVelocity = currentY;
+            }
+        }
+
+        // landed
+        if (isGrounded && !wasGrounded)
+        {
+            if (!hasTakenFallDamage && minYVelocity < fallDamageThreshold)
+            {
+                GetComponent<PlayerHealth>().TakeDamage(1);
+                hasTakenFallDamage = true;
+            }
+        }
+
+        if (isGrounded)
         {
             jumpsRemaining = maxJumps;
         }
+
+        wasGrounded = isGrounded;
+
     }
 
     private void OnDrawGizmosSelected()
