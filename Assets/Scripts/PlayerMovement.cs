@@ -53,6 +53,7 @@ public class PlayerMovement : MonoBehaviour
     {
         rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed, rb.linearVelocity.y);
         anim.SetBool("isMoving", horizontalMovement != 0);
+        anim.SetBool("isGrounded", isGrounded);
 
         if (horizontalMovement > 0) {
             transform.localScale = new Vector3(1, 1, 1);
@@ -61,6 +62,8 @@ public class PlayerMovement : MonoBehaviour
         }
 
         GroundCheck();
+
+        
     }
 
     void FixedUpdate()
@@ -87,6 +90,8 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
             jumpsRemaining --;
+
+            anim.SetTrigger("isJumping");
 
             if (jumpsRemaining == 1)
             {
