@@ -35,7 +35,8 @@ public class PlayerMovement : MonoBehaviour
     private bool hasTakenFallDamage;
 
 
-
+    public GameObject menuUI;
+    private bool isMenuOpen = false;
     public Animator anim;
 
     void Awake()
@@ -148,12 +149,21 @@ public class PlayerMovement : MonoBehaviour
     }
 
     public void Pause(InputAction.CallbackContext context)
-{
-    if (context.performed)
     {
-        Debug.Log("PAUSE PRESSED");
-        pauseManager.TogglePause();
+        if (context.performed)
+        {
+            Debug.Log("PAUSE PRESSED");
+            pauseManager.TogglePause();
+        }
     }
-}
+
+    public void ToggleMenu(InputAction.CallbackContext context)
+    {
+        if (context.performed)
+        {
+            isMenuOpen = !isMenuOpen;
+            menuUI.SetActive(isMenuOpen);
+        }
+    }
 
 }

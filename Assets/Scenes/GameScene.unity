@@ -2647,7 +2647,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 3.3228967
+  orthographic size: 3.5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -21990,23 +21990,39 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 5951315046782907138, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: menuUI
+      value: 
+      objectReference: {fileID: 1330110711}
+    - target: {fileID: 5951315046782907138, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: pauseManager
       value: 
       objectReference: {fileID: 911874651}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.size
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_ActionId
       value: 084de01e-de27-45f0-bb45-b6edd4965eb1
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_ActionId
+      value: 62be7d05-2466-4a69-9a6f-90f3d8ffcbed
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_ActionName
       value: 'Player/Pause[/Keyboard/escape]'
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_ActionName
+      value: 'Player/OpenInventory[/Keyboard/e]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
@@ -22014,7 +22030,15 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1508611393}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1508611393}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
@@ -22022,15 +22046,31 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: Pause
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ToggleMenu
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: PlayerMovement, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PlayerMovement, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.data[12].m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: m_ActionEvents.Array.data[13].m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
