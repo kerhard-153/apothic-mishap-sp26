@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: fbd32839c0a7d2c4295248040c80d4f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5352298646604070414
+    second: ThinLightRay_01_0
+  - first:
+      213: 6038843338997871431
+    second: ThinLightRay_01_1
+  - first:
+      213: 1209657832140185907
+    second: ThinLightRay_01_2
+  - first:
+      213: 5500941419378030081
+    second: ThinLightRay_01_3
+  - first:
+      213: 5272002953449903087
+    second: ThinLightRay_01_4
+  - first:
+      213: -1951256711210544800
+    second: ThinLightRay_01_5
+  - first:
+      213: -4720756747729427067
+    second: ThinLightRay_01_6
+  - first:
+      213: 1052070995637176147
+    second: ThinLightRay_01_7
+  - first:
+      213: -4502916129615333888
+    second: ThinLightRay_01_8
+  - first:
+      213: 8263172028597668415
+    second: ThinLightRay_01_9
+  - first:
+      213: -843732748729545305
+    second: ThinLightRay_01_10
+  - first:
+      213: 8671729909954221536
+    second: ThinLightRay_01_11
+  - first:
+      213: 8171361714022290726
+    second: ThinLightRay_01_12
+  - first:
+      213: 7450126037222824169
+    second: ThinLightRay_01_13
+  - first:
+      213: 3507591772328712670
+    second: ThinLightRay_01_14
+  - first:
+      213: 3982845534523519894
+    second: ThinLightRay_01_15
+  - first:
+      213: 6609678349087813195
+    second: ThinLightRay_01_16
+  - first:
+      213: -5300904045049191442
+    second: ThinLightRay_01_17
+  - first:
+      213: 8936175222777438832
+    second: ThinLightRay_01_18
+  - first:
+      213: -3579865886046794776
+    second: ThinLightRay_01_19
+  - first:
+      213: 3822838199133107493
+    second: ThinLightRay_01_20
+  - first:
+      213: 6629467968561421800
+    second: ThinLightRay_01_21
+  - first:
+      213: 8592659339218924938
+    second: ThinLightRay_01_22
+  - first:
+      213: 5342276551567382128
+    second: ThinLightRay_01_23
+  - first:
+      213: 5058772840303467817
+    second: ThinLightRay_01_24
+  - first:
+      213: -6982708915330681734
+    second: ThinLightRay_01_25
+  - first:
+      213: 4523914687872342207
+    second: ThinLightRay_01_26
+  - first:
+      213: 1654467675814935378
+    second: ThinLightRay_01_27
+  - first:
+      213: -8064511346880551029
+    second: ThinLightRay_01_28
+  - first:
+      213: -7229674065007751871
+    second: ThinLightRay_01_29
+  - first:
+      213: 3933415587370947149
+    second: ThinLightRay_01_30
+  - first:
+      213: 6938821609937752992
+    second: ThinLightRay_01_31
+  - first:
+      213: 4320921801345380483
+    second: ThinLightRay_01_32
+  - first:
+      213: 4203859033162529364
+    second: ThinLightRay_01_33
+  - first:
+      213: 6942450671542989360
+    second: ThinLightRay_01_34
+  - first:
+      213: -474950990284392763
+    second: ThinLightRay_01_35
+  - first:
+      213: -6428716959962505744
+    second: ThinLightRay_01_36
+  - first:
+      213: 5625489409825195595
+    second: ThinLightRay_01_37
+  - first:
+      213: 8845919605722581323
+    second: ThinLightRay_01_38
+  - first:
+      213: 1296234370397705359
+    second: ThinLightRay_01_39
+  - first:
+      213: -8793638786697369036
+    second: ThinLightRay_01_40
+  - first:
+      213: -7280304534342392934
+    second: ThinLightRay_01_41
+  - first:
+      213: 1861627569541165829
+    second: ThinLightRay_01_42
+  - first:
+      213: -6898870592870740536
+    second: ThinLightRay_01_43
+  - first:
+      213: -9177630133903971514
+    second: ThinLightRay_01_44
+  - first:
+      213: -3661421734483776354
+    second: ThinLightRay_01_45
+  - first:
+      213: -6378368509171540504
+    second: ThinLightRay_01_46
+  - first:
+      213: -2669165919776790559
+    second: ThinLightRay_01_47
+  - first:
+      213: -5157000946482009835
+    second: ThinLightRay_01_48
+  - first:
+      213: 9058641418202214624
+    second: ThinLightRay_01_49
+  - first:
+      213: -5757398904048605342
+    second: ThinLightRay_01_50
+  - first:
+      213: 6726348905172516183
+    second: ThinLightRay_01_51
+  - first:
+      213: 5735304458086167425
+    second: ThinLightRay_01_52
+  - first:
+      213: -8825596258430796626
+    second: ThinLightRay_01_53
+  - first:
+      213: -7197066306056892505
+    second: ThinLightRay_01_54
+  - first:
+      213: 1272601100347775120
+    second: ThinLightRay_01_55
+  - first:
+      213: 8495647727784372809
+    second: ThinLightRay_01_56
+  - first:
+      213: 6777435208992093597
+    second: ThinLightRay_01_57
+  - first:
+      213: 7487295342824715310
+    second: ThinLightRay_01_58
+  - first:
+      213: -9131943116399633945
+    second: ThinLightRay_01_59
+  - first:
+      213: 7043551736602785060
+    second: ThinLightRay_01_60
+  - first:
+      213: -3284794364540253112
+    second: ThinLightRay_01_61
+  - first:
+      213: -6029528468617005843
+    second: ThinLightRay_01_62
+  - first:
+      213: 8677118848019274454
+    second: ThinLightRay_01_63
+  - first:
+      213: 8927028952923106276
+    second: ThinLightRay_01_64
+  - first:
+      213: -1237676486170920008
+    second: ThinLightRay_01_65
+  - first:
+      213: -2663986081899932717
+    second: ThinLightRay_01_66
+  - first:
+      213: -3645135826043701643
+    second: ThinLightRay_01_67
+  - first:
+      213: 424395841612464593
+    second: ThinLightRay_01_68
+  - first:
+      213: -3149577408821402513
+    second: ThinLightRay_01_69
+  - first:
+      213: 7468982118074636752
+    second: ThinLightRay_01_70
+  - first:
+      213: 7655169963832060562
+    second: ThinLightRay_01_71
+  - first:
+      213: 3625985208292832258
+    second: ThinLightRay_01_72
+  - first:
+      213: 4169366946031834096
+    second: ThinLightRay_01_73
+  - first:
+      213: 3249923597780240619
+    second: ThinLightRay_01_74
+  - first:
+      213: -4757373367395016434
+    second: ThinLightRay_01_75
+  - first:
+      213: 2405498239572505884
+    second: ThinLightRay_01_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThinLightRay_01_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 659
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eb3aae24f274a40800000000000000
+      internalID: 5352298646604070414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 673
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b33b85084ec350800000000000000
+      internalID: 6038843338997871431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 640
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312c78a36199c010800000000000000
+      internalID: 1209657832140185907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 659
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b2406315475c40800000000000000
+      internalID: 5500941419378030081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 629
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3113ff0cae92940800000000000000
+      internalID: 5272002953449903087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 640
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d2befb5ebbe4e0800000000000000
+      internalID: -1951256711210544800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 551
+        width: 25
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5852f84efb08c7eb0800000000000000
+      internalID: -4720756747729427067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 616
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35702751ff4b99e00800000000000000
+      internalID: 1052070995637176147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 624
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006b6e833ad6281c0800000000000000
+      internalID: -4502916129615333888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 623
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a028a0e2faca270800000000000000
+      internalID: 8263172028597668415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 214
+        width: 77
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad8c9a09857a44f0800000000000000
+      internalID: -843732748729545305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 469
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e593f6886c285870800000000000000
+      internalID: 8671729909954221536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 267
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62596876f22866170800000000000000
+      internalID: 8171361714022290726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 286
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81e8c882a246760800000000000000
+      internalID: 7450126037222824169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 261
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95cb602287da030800000000000000
+      internalID: 3507591772328712670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 253
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693768069e8e54730800000000000000
+      internalID: 3982845534523519894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 233
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e28fc507b4abb50800000000000000
+      internalID: 6609678349087813195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 222
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3696e3bd76f66b0800000000000000
+      internalID: -5300904045049191442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072eb4ce40ca30c70800000000000000
+      internalID: 8936175222777438832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb44ae81f2c15ec0800000000000000
+      internalID: -3579865886046794776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_20
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5257f1d76137d0530800000000000000
+      internalID: 3822838199133107493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 217
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1fe33ef9900c50800000000000000
+      internalID: 6629467968561421800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853616a4224f3770800000000000000
+      internalID: 8592659339218924938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07692141834932a40800000000000000
+      internalID: 5342276551567382128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 214
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d9ea1881f543640800000000000000
+      internalID: 5058772840303467817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f2cbcc3f681f90800000000000000
+      internalID: -6982708915330681734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_26
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 206
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb89dcc907c28ce30800000000000000
+      internalID: 4523914687872342207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 155
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bb05dd599d5f610800000000000000
+      internalID: 1654467675814935378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 196
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e31a58a9151090800000000000000
+      internalID: -8064511346880551029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dcb590eb90bab90800000000000000
+      internalID: -7229674065007751871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 192
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42da37f2ac469630800000000000000
+      internalID: 3933415587370947149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d424ad75ab4060800000000000000
+      internalID: 6938821609937752992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 195
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380be6f2c7ff6fb30800000000000000
+      internalID: 4320921801345380483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 151
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a3875848b175a30800000000000000
+      internalID: 4203859033162529364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fdf36a1a885060800000000000000
+      internalID: 6942450671542989360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 191
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f06a3792a869f0800000000000000
+      internalID: -474950990284392763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 181
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdd7e75cfb98c6a0800000000000000
+      internalID: -6428716959962505744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 197
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b464a5820d0c11e40800000000000000
+      internalID: 5625489409825195595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 179
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4902c2830503ca70800000000000000
+      internalID: 8845919605722581323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f841539ca462df110800000000000000
+      internalID: 1296234370397705359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 186
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a6ecb3d18b6f580800000000000000
+      internalID: -8793638786697369036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932bd5499927fa90800000000000000
+      internalID: -7280304534342392934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_42
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 173
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50333924964d5d910800000000000000
+      internalID: 1861627569541165829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 167
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd0d806fb94240a0800000000000000
+      internalID: -6898870592870740536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64babb4b40282a080800000000000000
+      internalID: -9177630133903971514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c233fd454003dc0800000000000000
+      internalID: -3661421734483776354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_46
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 162
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edda4c82ab7b77a0800000000000000
+      internalID: -6378368509171540504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e72021ecb735fad0800000000000000
+      internalID: -2669165919776790559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519269e46f6ae68b0800000000000000
+      internalID: -5157000946482009835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e075970062c6bd70800000000000000
+      internalID: 9058641418202214624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 155
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a5f5633c9910b0800000000000000
+      internalID: -5757398904048605342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 94
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d352801bac85d50800000000000000
+      internalID: 6726348905172516183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 129
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b0f68405e79f40800000000000000
+      internalID: 5735304458086167425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac373586fe258580800000000000000
+      internalID: -8825596258430796626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 151
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afcb8a8352ee1c90800000000000000
+      internalID: -7197066306056892505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_55
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098100f45ff29a110800000000000000
+      internalID: 1272601100347775120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2177b89a96e570800000000000000
+      internalID: 8495647727784372809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 105
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f2380a694e0e50800000000000000
+      internalID: 6777435208992093597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_58
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 132
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24f085e17738e760800000000000000
+      internalID: 7487295342824715310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_59
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 108
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e91de56e12d44180800000000000000
+      internalID: -9131943116399633945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 138
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4257b417cf8bfb160800000000000000
+      internalID: 7043551736602785060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_61
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c8f55dde01a62d0800000000000000
+      internalID: -3284794364540253112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47af8bdcfc25ca0800000000000000
+      internalID: -6029528468617005843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 89
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da19027e915b6870800000000000000
+      internalID: 8677118848019274454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebeb96098d23eb70800000000000000
+      internalID: 8927028952923106276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_65
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 103
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbbde61bc3e2dee0800000000000000
+      internalID: -1237676486170920008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 124
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d315cdd5ce970bd0800000000000000
+      internalID: -2663986081899932717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5767d9a6740e96dc0800000000000000
+      internalID: -3645135826043701643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c677f4c1c3e500800000000000000
+      internalID: 424395841612464593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_69
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64ea9aa8047a44d0800000000000000
+      internalID: -3149577408821402513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9559df9a727a760800000000000000
+      internalID: 7468982118074636752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 87
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2375f580ac3a60800000000000000
+      internalID: 7655169963832060562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_72
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 72
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2047d1de556125230800000000000000
+      internalID: 3625985208292832258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_73
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f39b7ca5219cd930800000000000000
+      internalID: 4169366946031834096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_74
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 94
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c9d81b4c0a1d20800000000000000
+      internalID: 3249923597780240619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 87
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e012484c02a6afdb0800000000000000
+      internalID: -4757373367395016434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThinLightRay_01_76
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 78
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15fb8d67eb026120800000000000000
+      internalID: 2405498239572505884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ThinLightRay_01_0: 5352298646604070414
+      ThinLightRay_01_1: 6038843338997871431
+      ThinLightRay_01_10: -843732748729545305
+      ThinLightRay_01_11: 8671729909954221536
+      ThinLightRay_01_12: 8171361714022290726
+      ThinLightRay_01_13: 7450126037222824169
+      ThinLightRay_01_14: 3507591772328712670
+      ThinLightRay_01_15: 3982845534523519894
+      ThinLightRay_01_16: 6609678349087813195
+      ThinLightRay_01_17: -5300904045049191442
+      ThinLightRay_01_18: 8936175222777438832
+      ThinLightRay_01_19: -3579865886046794776
+      ThinLightRay_01_2: 1209657832140185907
+      ThinLightRay_01_20: 3822838199133107493
+      ThinLightRay_01_21: 6629467968561421800
+      ThinLightRay_01_22: 8592659339218924938
+      ThinLightRay_01_23: 5342276551567382128
+      ThinLightRay_01_24: 5058772840303467817
+      ThinLightRay_01_25: -6982708915330681734
+      ThinLightRay_01_26: 4523914687872342207
+      ThinLightRay_01_27: 1654467675814935378
+      ThinLightRay_01_28: -8064511346880551029
+      ThinLightRay_01_29: -7229674065007751871
+      ThinLightRay_01_3: 5500941419378030081
+      ThinLightRay_01_30: 3933415587370947149
+      ThinLightRay_01_31: 6938821609937752992
+      ThinLightRay_01_32: 4320921801345380483
+      ThinLightRay_01_33: 4203859033162529364
+      ThinLightRay_01_34: 6942450671542989360
+      ThinLightRay_01_35: -474950990284392763
+      ThinLightRay_01_36: -6428716959962505744
+      ThinLightRay_01_37: 5625489409825195595
+      ThinLightRay_01_38: 8845919605722581323
+      ThinLightRay_01_39: 1296234370397705359
+      ThinLightRay_01_4: 5272002953449903087
+      ThinLightRay_01_40: -8793638786697369036
+      ThinLightRay_01_41: -7280304534342392934
+      ThinLightRay_01_42: 1861627569541165829
+      ThinLightRay_01_43: -6898870592870740536
+      ThinLightRay_01_44: -9177630133903971514
+      ThinLightRay_01_45: -3661421734483776354
+      ThinLightRay_01_46: -6378368509171540504
+      ThinLightRay_01_47: -2669165919776790559
+      ThinLightRay_01_48: -5157000946482009835
+      ThinLightRay_01_49: 9058641418202214624
+      ThinLightRay_01_5: -1951256711210544800
+      ThinLightRay_01_50: -5757398904048605342
+      ThinLightRay_01_51: 6726348905172516183
+      ThinLightRay_01_52: 5735304458086167425
+      ThinLightRay_01_53: -8825596258430796626
+      ThinLightRay_01_54: -7197066306056892505
+      ThinLightRay_01_55: 1272601100347775120
+      ThinLightRay_01_56: 8495647727784372809
+      ThinLightRay_01_57: 6777435208992093597
+      ThinLightRay_01_58: 7487295342824715310
+      ThinLightRay_01_59: -9131943116399633945
+      ThinLightRay_01_6: -4720756747729427067
+      ThinLightRay_01_60: 7043551736602785060
+      ThinLightRay_01_61: -3284794364540253112
+      ThinLightRay_01_62: -6029528468617005843
+      ThinLightRay_01_63: 8677118848019274454
+      ThinLightRay_01_64: 8927028952923106276
+      ThinLightRay_01_65: -1237676486170920008
+      ThinLightRay_01_66: -2663986081899932717
+      ThinLightRay_01_67: -3645135826043701643
+      ThinLightRay_01_68: 424395841612464593
+      ThinLightRay_01_69: -3149577408821402513
+      ThinLightRay_01_7: 1052070995637176147
+      ThinLightRay_01_70: 7468982118074636752
+      ThinLightRay_01_71: 7655169963832060562
+      ThinLightRay_01_72: 3625985208292832258
+      ThinLightRay_01_73: 4169366946031834096
+      ThinLightRay_01_74: 3249923597780240619
+      ThinLightRay_01_75: -4757373367395016434
+      ThinLightRay_01_76: 2405498239572505884
+      ThinLightRay_01_8: -4502916129615333888
+      ThinLightRay_01_9: 8263172028597668415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
