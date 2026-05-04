@@ -409,8 +409,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 91156093
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 85873d32db9f76c4fbd21997b1e96a8d, type: 3}
@@ -703,8 +703,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 91156093
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 85873d32db9f76c4fbd21997b1e96a8d, type: 3}
@@ -1461,8 +1461,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 91156093
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 85873d32db9f76c4fbd21997b1e96a8d, type: 3}
@@ -1662,8 +1662,8 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -908430809
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -4875,8 +4875,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 91156093
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 85873d32db9f76c4fbd21997b1e96a8d, type: 3}
@@ -5046,6 +5046,14 @@ PrefabInstance:
     - target: {fileID: 2416429688607982374, guid: 5781474100e78d343b367e516a88ea45, type: 3}
       propertyPath: m_Name
       value: ThinLightRay_01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1400877239
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5228,8 +5236,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 91156093
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 85873d32db9f76c4fbd21997b1e96a8d, type: 3}
@@ -5335,8 +5343,8 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 987908979
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
@@ -10636,6 +10644,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ThinLightRay_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1400877239
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15528,6 +15544,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 23.609
       objectReference: {fileID: 0}
+    - target: {fileID: 8793240467640659702, guid: a2547a20e591ec945a9957d45290bf3b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793240467640659702, guid: a2547a20e591ec945a9957d45290bf3b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1400877239
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15585,6 +15609,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ThinLightRay_01
       objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4030862146136358120, guid: 5781474100e78d343b367e516a88ea45, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1400877239
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15641,6 +15673,14 @@ PrefabInstance:
     - target: {fileID: 8363114282190701335, guid: a2547a20e591ec945a9957d45290bf3b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -31.403
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793240467640659702, guid: a2547a20e591ec945a9957d45290bf3b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793240467640659702, guid: a2547a20e591ec945a9957d45290bf3b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1400877239
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
