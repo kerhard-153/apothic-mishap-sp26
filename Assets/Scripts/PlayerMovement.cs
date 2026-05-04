@@ -46,6 +46,7 @@ public class PlayerMovement : MonoBehaviour
     {
         anim = GetComponent<Animator>();
         Time.timeScale = 1f;
+        jumpsRemaining = maxJumps;
     }
 
     // Update is called once per frame
@@ -103,16 +104,15 @@ public class PlayerMovement : MonoBehaviour
         // landed
         if (isGrounded && !wasGrounded)
         {
+            jumpsRemaining = maxJumps;
+
             if (!hasTakenFallDamage && minYVelocity < fallDamageThreshold)
             {
                 GetComponent<PlayerHealth>().TakeDamage(1);
                 hasTakenFallDamage = true;
             }
         }
-        if (isGrounded)
-        {
-            jumpsRemaining = maxJumps;
-        }
+
         wasGrounded = isGrounded;
 
     }
@@ -125,8 +125,10 @@ public class PlayerMovement : MonoBehaviour
 
     public void Jump(InputAction.CallbackContext context)
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
-            jumpsRemaining --;
+        if (context.performed && jumpsRemaining > 0)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+            jumpsRemaining--;
 
             anim.SetTrigger("isJumping");
 
@@ -134,6 +136,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 // play particles
             }
+    }
         
     }
     private void OnDrawGizmosSelected()
