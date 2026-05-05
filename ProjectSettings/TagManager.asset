@@ -59,5 +59,8 @@ TagManager:
   - name: Foreground
     uniqueID: 406758401
     locked: 0
+  - name: TextBoxes
+    uniqueID: 1436787775
+    locked: 0
   m_RenderingLayers:
   - Default
