@@ -37,6 +37,8 @@ public class PlayerMovement : MonoBehaviour
     private bool isMenuOpen = false;
     public Animator anim;
 
+    public SceneLoader sceneLoader;
+
 
     void Awake()
     {
@@ -136,9 +138,18 @@ public class PlayerMovement : MonoBehaviour
             {
                 // play particles
             }
-    }
+        }
         
     }
+
+    public void EndScreen(InputAction.CallbackContext context)
+    {
+        if (context.performed)
+        {
+            sceneLoader.LoadScene("EndScreen");
+        }
+    }
+
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.white;
