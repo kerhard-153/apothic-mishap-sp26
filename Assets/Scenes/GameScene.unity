@@ -31364,16 +31364,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2702890659439634957, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_Intensity
+      value: 0.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 2702890659439634957, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_FalloffIntensity
+      value: 0.386
+      objectReference: {fileID: 0}
+    - target: {fileID: 2702890659439634957, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_PointLightInnerRadius
+      value: 0.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 2702890659439634957, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 0.69
+      objectReference: {fileID: 0}
     - target: {fileID: 5244271980003116323, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 5905938939956921735, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 5905938939956921735, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.55
+      objectReference: {fileID: 0}
     - target: {fileID: 7007243126251208990, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
       propertyPath: m_Name
       value: LftoRt_FlyingSprite_01
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 7214908116880736703, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d60c7de513f40c14b9f19078d1da4852, type: 3}
