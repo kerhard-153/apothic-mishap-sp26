@@ -114,6 +114,7 @@ public class PlayerMovement : MonoBehaviour
             if (!hasTakenFallDamage && minYVelocity < fallDamageThreshold)
             {
                 GetComponent<PlayerHealth>().TakeDamage(1);
+                SoundManager.instance.Play("Hurt");
                 hasTakenFallDamage = true;
             }
         }
@@ -137,8 +138,15 @@ public class PlayerMovement : MonoBehaviour
 
             anim.SetTrigger("isJumping");
 
+            if (jumpsRemaining == 1)
+            {
+                SoundManager.instance.Play("Jump");
+            }
+
+
             if (jumpsRemaining == 0)
             {
+                SoundManager.instance.Play("DoubleJump");
                 GameObject poof = Instantiate(airPoofPrefab, transform.position, Quaternion.identity);
                 Destroy(poof, 0.5f);
             }
