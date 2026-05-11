@@ -33,6 +33,9 @@ public class PlayerMovement : MonoBehaviour
     private float minYVelocity;
     private bool hasTakenFallDamage;
 
+    [Header("Particles")]
+    public GameObject airPoofPrefab;
+
     public GameObject menuUI;
     private bool isMenuOpen = false;
     public Animator anim;
@@ -134,9 +137,10 @@ public class PlayerMovement : MonoBehaviour
 
             anim.SetTrigger("isJumping");
 
-            if (jumpsRemaining == 1)
+            if (jumpsRemaining == 0)
             {
-                // play particles
+                GameObject poof = Instantiate(airPoofPrefab, transform.position, Quaternion.identity);
+                Destroy(poof, 0.5f);
             }
         }
         

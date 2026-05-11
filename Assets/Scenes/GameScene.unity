@@ -28429,63 +28429,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!1001 &1874590845
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -6.6712537
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -4.552408
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2974561992693958981, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6694593209197973010, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
-      propertyPath: m_Name
-      value: Airpoof1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
 --- !u!1 &1900432252
 GameObject:
   m_ObjectHideFlags: 0
@@ -31935,6 +31878,10 @@ PrefabInstance:
       propertyPath: pauseManager
       value: 
       objectReference: {fileID: 911874651}
+    - target: {fileID: 5951315046782907138, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
+      propertyPath: airPoofPrefab
+      value: 
+      objectReference: {fileID: 6694593209197973010, guid: 2bb11c1d72a3dc0408d07f7a078299f7, type: 3}
     - target: {fileID: 6639689827608020365, guid: 7ee963ee9985e417f924183de88b8aec, type: 3}
       propertyPath: m_ActionEvents.Array.size
       value: 15
@@ -32420,7 +32367,6 @@ SceneRoots:
   - {fileID: 981816151}
   - {fileID: 2034053912}
   - {fileID: 1497322925}
-  - {fileID: 1874590845}
   - {fileID: 458932523}
   - {fileID: 6584977588009366199}
   - {fileID: 1748611753}
