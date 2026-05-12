@@ -48,9 +48,12 @@ public class SoundManager : MonoBehaviour
         sfxSource.PlayOneShot(sound.clip, sound.volume);
     }
 
-    public void PlayMusic(AudioClip musicClip)
+    public void PlayMusic(AudioClip newMusic)
     {
-        musicSource.clip = musicClip;
+        if (musicSource.clip == newMusic)
+            return;
+
+        musicSource.clip = newMusic;
         musicSource.Play();
     }
 }
